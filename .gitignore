@@ -1,0 +1,44 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+env/
+ENV/
+*.env
+.env
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de pruebas y cobertura
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Archivos de logs
+*.log
+
+# Archivos de bases de datos locales
+*.sqlite3
+*.db
+
+# Archivos de paquetes
+dist/
+build/
+*.egg-info/
+
+# Archivos de configuración de Chainlit (si aplica)
+.chainlit/
+
+# Otros
+.DS_Store
+Thumbs.db
